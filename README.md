@@ -5,7 +5,7 @@ These scripts generate noisy signals overlaid by built-in R functions without an
 ![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures.jpg)
 ![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_alternative.jpg)
 ![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_1.jpg)
-![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_2.jpg)
+![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_2.png)
 
 
 Arif Armağan Gözütok / 13-12-2017
