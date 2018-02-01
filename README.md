@@ -11,5 +11,6 @@ These scripts generate noisy signals overlaid by built-in R functions without an
 ![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_last_last_last.png)
 ![alt text](https://github.com/mabelsfatalfable/Joy-Division-Unknown-Pleasures-Random-T-shirt-Generator/blob/master/UnknownPleasures_son.png)
 
+Project can either be used as pulsar (neutron star) pulse generator.
 
 Arif Armağan Gözütok / 13-12-2017
